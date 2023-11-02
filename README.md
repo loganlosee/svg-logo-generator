@@ -28,7 +28,7 @@ SVG Logo Generator is a simple command-line application that allows users to cre
 
 ## Walkthrough Video
 
-For a detailed demonstration of how to use the SVG Logo Generator, watch the [walkthrough video](https://drive.google.com/file/d/1QRueA4wVfbKvl2DF7q56CsS6_ITaNpZk/view).
+For a detailed demonstration of how to use the SVG Logo Generator, watch the [walkthrough video](https://drive.google.com/file/d/1HzlyyoGA8aHIFNdjTmO8LxgKEHkSIhap/view).
 
 ## Repository Information
 
